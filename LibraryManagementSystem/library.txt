@@ -1,0 +1,5 @@
+Book ID: 101, Title: Java Programming, Author: James Gosling, Status: Available
+Book ID: 102, Title: Python Programming, Author: Eric Matthes, Status: Available
+Book ID: 103, Title: Data Structures, Author: Seymour Lipschutz, Status: Available
+Student ID: 1, Name: Sameer, Course: TY EXTC 
+Student ID: 2, Name: Aditya, Course: TY EXTC 
